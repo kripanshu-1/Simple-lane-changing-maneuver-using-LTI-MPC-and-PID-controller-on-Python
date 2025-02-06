@@ -18,7 +18,7 @@ The project applies:
 
 ## Files in this Repository
 - `MAIN_MPC_car_lateral.py` - Main script implementing the MPC and visualization
-- `support_files_car.py` - Helper functions for vehicle dynamics and control
+- `support_files_car.py` - Helper functions contains trajectory generation, mpc simplification, state-space model and plant
 
 ## Running the Simulation
 - Keep both the files in the same folder.
